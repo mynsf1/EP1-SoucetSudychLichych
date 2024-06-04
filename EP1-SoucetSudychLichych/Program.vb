@@ -17,6 +17,8 @@ Module Program
 
             Next
 
+        Else
+            Console.WriteLine("Neplatná hodnota. Zadejte prosím celé èíslo.")
         End If
     End Sub
 End Module
